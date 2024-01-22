@@ -1,0 +1,9 @@
+.individual-items h1{
+    padding: 30px;
+}
+
+@media (max-width: 480px) {
+    .individual-items h1{
+        font-size: 25px;
+    }
+}
